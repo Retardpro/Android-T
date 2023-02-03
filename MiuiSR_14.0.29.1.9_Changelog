@@ -23,6 +23,34 @@
 + Added device screenshot frame
 + Enabled smarthub stuffs for our device
 + Enabled Enhanced keyboard 
++ Added notification history control
+   under notification section
++ Fixed dark mode issue of notification
+   history and redesigned it
++ Added notification log control in notification
+   section 
++ Added extra dim control under
+   display section 
++ Updated haptics , and now gboard
+   will have working haptics by default
++ Fixed the issue of super icons was
+   not applying
++ Added status bar tint color option in
+   sr customisation under status mods
++ Added notification background
+   gradient color option , stroke color ,
+   radius control
++ Added call logs color choice for  ,can
+   set color for each call logs 
++ Disabled signature verification, now i
+   can install different signature app
+   and downgrade apps also possible 
++ Fixed title of fingerprint vibration
+   option 
++ Fixed some vowifi icons were not
+   showing 
++ Fixed poor battery health graph (for
+   aesthetic fappers)
 + Removed Annoying Chinese swipe
    up
 + Fixed status bar content hide behind
@@ -151,4 +179,4 @@ Enjoy your stay
 
 Developer:-Retardpro
 Telegram:-Retardpro
-
+MiuiSR Team.
