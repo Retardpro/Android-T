@@ -1,6 +1,6 @@
 * MIUISR 14.0.29.1.9.Dev
 * Based:- Cn 14.0.29.1.9
-####### January Update : 03/02/23 ######
+####### February Update
 
 + Enforcing build
 + System is r/w ,decrypted , performance is riced
@@ -25,6 +25,25 @@
 + Enabled Enhanced keyboard 
 + Added notification history control
    under notification section
++ Fixed SafetyNet
++ Fixed Random Launcher Crash
++ Fixed face unlock was not
+   available for other regions 
++ Modded Package Installer,
+   Removed Chinese stuffs and
+   Secure mode
++ Fixed Aod missing and Wake up
+   option missing 
++ Updated theme store , discovery
+   section showing with unlocked
+   paid widgets
++ Added region choice 
++ Fixed Theme reset problem
++ Fixed Hide apps crash
++ Added Quick app launch in
+   notification panel , can be
+   enabled from settings 
++ Fixed gap in keyboard 
 + Fixed dark mode issue of notification
    history and redesigned it
 + Added notification log control in notification
